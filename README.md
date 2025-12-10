@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👋 Hey, soy Lucas (Lucks)
 
-<!--
-**lucksgg7/lucksgg7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador Full Stack con foco en **backend e infraestructura**  
+🧠 Constructor de sistemas reales: paneles, APIs, automatización y servidores  
+🚀 Proyecto actual: **Hytalia** (Network Hytalia + Sistemas propios)
 
-Here are some ideas to get you started:
+### 🧰 Stack técnico
+- 🟦 TypeScript / JavaScript
+- 🐍 Python
+- ⚛️ React / Vite / Tailwind
+- 🐳 Docker · Nginx · GitHub Actions
+- 🗄️ PostgreSQL · SQLite · Redis
+- ☁️ Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧩 Proyectos destacados
+- 🧭 **Sistema de reportes estilo Trello** con estados y permisos
+- 🔐 **Staff Panel** con login y dashboard
+- 🎮 **Plugins Minecraft personalizados** (clanes, duelos, levels)
+- 🛡️ Infraestructura segura con túneles y control de acceso
+
+- ### 📫 Contacto
+- GitHub: https://github.com/lucksgg7
+- Discord: lucksgg7
