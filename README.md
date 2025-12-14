@@ -1,6 +1,6 @@
 ## 👋 Hey, soy Lucas (Lucks)
 
-💻 Desarrollador Full Stack con foco en **backend e infraestructura**  
+💻 Desarrollador Full Stack
 🧠 Constructor de sistemas reales: paneles, APIs, automatización y servidores  
 🚀 Proyecto actual: **Hytalia** (Network Hytalia + Sistemas propios)
 
@@ -19,5 +19,4 @@
 - 🛡️ Infraestructura segura con túneles y control de acceso
 
 - ### 📫 Contacto
-- GitHub: https://github.com/lucksgg7
 - Discord: lucksgg7
