@@ -20,3 +20,4 @@
 
 - ### 📫 Contacto
 - Discord: lucksgg7
+- Correo: contacto@lucasvicente.es
