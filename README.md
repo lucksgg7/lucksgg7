@@ -36,7 +36,7 @@ Construyo software que mejora operaciones y escala sin romperse.
 ### 🧭 StackWatch
 Plataforma de monitoreo con métricas en tiempo real y despliegue en producción.
 
-### 🏗 VarunHost
+### 🏗 VarynHost
 Infraestructura automatizada con WHMCS + aprovisionamiento y gestión escalable.
 
 ### 🧠 MD-Intelligence
