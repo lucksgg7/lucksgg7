@@ -29,24 +29,6 @@ Construyo software que mejora operaciones y escala sin romperse.
 - Docker · Nginx · Linux
 - CI/CD con GitHub Actions
 
----
-
-## 🚀 Proyectos relevantes
-
-### 🧭 StackWatch
-Plataforma de monitoreo con métricas en tiempo real y despliegue en producción.
-
-### 🏗 VarynHost
-Infraestructura automatizada con WHMCS + aprovisionamiento y gestión escalable.
-
-### 🧠 MD-Intelligence
-Sistema de análisis con decisiones técnicas comparativas y métricas internas.
-
-### 🎮 Hytalia
-Ecosistema de servicios y plugins con arquitectura modular.
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
