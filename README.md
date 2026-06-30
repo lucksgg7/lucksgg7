@@ -69,16 +69,7 @@ Construyo **agentes de IA** con tool-calling, voz en tiempo real y automatizaciÃ
 ### ðŸ“Š GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lucasvicentec&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasvicentec&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvicentec&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lucasvicentec&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasvicentec&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
 </div>
 
 ---
