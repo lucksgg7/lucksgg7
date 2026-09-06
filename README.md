@@ -14,7 +14,6 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/%E2%9A%A1_Disponible-15_d%C3%ADas_de_aviso-10b981?style=flat-square" />
   <img src="https://img.shields.io/badge/%F0%9F%93%8D_Madrid-Full--time_%C2%B7_Remoto-111827?style=flat-square" />
   <img src="https://komarev.com/ghpvc/?username=lucasvicentec&label=Visitas&color=2563eb&style=flat-square" />
 </p>
